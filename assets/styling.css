@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+body{
+    background-color: #121212;
+}
+#integral-out{
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+#textBoxes{
+    text-align: center;
+}
+.textbox{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    border: 2px solid #bb86fc;
+    background-color: rgba(255, 255, 255, 0);
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+}
+p{
+    display: inline-block;
+    margin-right: 15px;
+    text-align: center;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+#bound1{
+    margin-right: 15px;
+}
+#mathFunction{
+    width: 275px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+#description{
+    margin-left: 33%;
+    margin-right: 33%;
+}
