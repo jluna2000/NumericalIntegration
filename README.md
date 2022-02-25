@@ -18,7 +18,7 @@ In order to run the web application, make sure to have the following installed:
 To run the application, execute the following commands in the command line:
 ```bash
 # Clone the repository and access it
-git clone https://github.com/robokae/Gradebook-Application.git
+git clone https://github.com/jluna2000/NumericalIntegration.git
 cd Gradebook-Application
 
 # Install the dependencies
