@@ -25,5 +25,5 @@ cd Gradebook-Application
 pip3 install dash
 
 # Run the development server
-python3 app.py
+python3 integralWebpage.py
 ```
