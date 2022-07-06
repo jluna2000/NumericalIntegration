@@ -30,7 +30,7 @@ fig = createLine(x, y, 'Function')
 
 app.layout = html.Div(
     [
-        html.H1(children = "The Simpsons Numerical Integration Calculator"),
+        html.H1(children = "The Numerical Integration Calculator"),
         html.P("This numerical integration calculator makes use of the Composite Simpson's " 
         "Rule to estimate the definite integral of the inputted function within the specified bounds. "
         "This calculator is set up to have 100 subintervals in between 1 point: an interval every 0.01 "
