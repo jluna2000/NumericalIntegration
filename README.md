@@ -14,7 +14,7 @@ In order to run the web application, make sure to have the following installed:
 * Git
 * Python (3.8 or later)
 
-This is the testingCloneBranch
+This is the testingCloneBranch, updated.
 
 ### Viewing the Application
 To run the application, execute the following commands in the command line:
