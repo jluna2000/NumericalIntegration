@@ -14,7 +14,7 @@ In order to run the web application, make sure to have the following installed:
 * Git
 * Python (3.8 or later)
 
-This is the testingCloneBranch, updated.
+This is the testingCloneBranch, updated and pushed with Github Desktop, but with files in WSL.
 
 ### Viewing the Application
 To run the application, execute the following commands in the command line:
