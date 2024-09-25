@@ -21,9 +21,30 @@ To run the application, execute the following commands in the command line:
 git clone https://github.com/jluna2000/NumericalIntegration.git
 cd NumericalIntegration
 
-# Install the dependencies
-pip3 install dash
+# make sure to install pip
+python -m pip install --upgrade pip
+
+# for windows users: create a python enviroment
+py -m venv venv
+ 
+# for mac users:
+python3 -m venv venv
+ 
+# Activating python enviroment on windows
+.\venv\Scripts\activate
+
+# Activating python environment on mac
+source venv/bin/activate
+
+# install the dependencies
+python -m pip install -r requirements.txt or pip3 install -r requirements.txt
 
 # Run the development server
 python3 integralWebpage.py
+
+# to leave the python virtual environment/deactivate it
+deactivate
 ```
+
+## Live Website
+Alternatively, you can visit the live website [here](https://jluna2000.pythonanywhere.com/).
